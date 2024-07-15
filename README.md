@@ -9,4 +9,4 @@ Readme page that breaks down how to tackle
 - Results: --
 - Describe datasets and why I chose each dataset - key differences
 - Data Cleaning
-- EDA
+- EDA: PCA analysis, log regression
