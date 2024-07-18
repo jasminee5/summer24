@@ -1,6 +1,5 @@
-# Project Title and Description:
 ## United States income distribution
-Throughout this project we analyze the income distribution around the United States, especially for the AANHPI communities. We investigate factors such as marital status and professional industry of work to better understand the income distribution spread. Furthermore, we understand how this has changed between the 1990s to 2020s and compare this income distribution again stately average wages and minimum wages.  By understanding the wealth and income distribution around the US, especially for the AANHPI communities we are able to allocate funds to communities in need.
+Throughout this project, we examine income distribution across the United States, focusing particularly on the AANHPI communities. Our analysis investigates factors like marital status and professional industries to gain insights into income disparities. Furthermore, we explore changes from the 1990s to the 2020s and compare these distributions with state averages and minimum wages. By understanding wealth and income distribution across the US, especially among AANHPI communities, we can effectively allocate funds to communities in need.
 
 ### ----TABLE OF CONTENTS---
 Aim and Objectives
