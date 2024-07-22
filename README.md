@@ -2,17 +2,17 @@
 Throughout this project, we examine income distribution across the United States, focusing particularly on the AANHPI communities. Our analysis investigates factors like marital status and professional industries to gain insights into income disparities. Furthermore, we explore changes from the 1990s to the 2020s and compare these distributions with state averages and minimum wages. By understanding wealth and income distribution across the US, especially among AANHPI communities, we can effectively allocate funds to communities in need.
 
 ## Table of Contents
-[Results](#Results) <br>
+[Results](#results) <br>
 [Tools Used](#tools-used) <br>
-Project File Description <br>
-Usage Instructions <br>
-Approach <br>
-Status <br>
-License Information <br>
-Credits <br>
-Contact Information
+[Project File Description](#project-file-description) <br>
+[Usage Instructions](#usage-instructions) <br>
+[Approach](#approach) <br>
+[Status](#status) <br>
+[License Information](#license-information) <br>
+[Credits](#credits) <br>
+[Contact Information](#Contact-Information) <br>
 
-### Results
+## Results
 Basic examples of the procedure or outputs. These can be pictures of visualizations, websites etc
 
 ## Tools Used
