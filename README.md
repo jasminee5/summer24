@@ -4,7 +4,6 @@ Throughout this project, we examine income distribution across the United States
 ## Table of Contents
 [Results](#results) <br>
 [Tools Used](#tools-used) <br>
-[Project File Description](#project-file-description) <br>
 [Usage Instructions](#usage-instructions) <br>
 [Approach](#approach) <br>
 [Status](#status) <br>
@@ -17,9 +16,6 @@ Basic examples of the procedure or outputs. These can be pictures of visualizati
 
 ## Tools Used
 This project and all visualizations were created with Jupyter Notebook using Python, along with essential libraries such as Matplotlib, NumPy, and Pandas.
-
-## Project File Description
-…
 
 ## Usage Instructions
 To follow along with this project, download the below two datasets <br>
