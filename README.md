@@ -37,7 +37,7 @@ July 22nd: Working on creating visualizations post EDA
 Specify licensing terms under which the project is distributed
 
 ## :scroll: Credits
-All datasets found on [Kaggle.com - 2017 dataset](https://www.kaggle.com/datasets/muonneutrino/us-census-demographic-data/data) & [Kaggle.com - 1994 dataset](https://www.kaggle.com/datasets/uciml/adult-census-income)
+All datasets found on [Kaggle.com - 1994 dataset](https://www.kaggle.com/datasets/uciml/adult-census-income) & [Kaggle.com - 2017 dataset](https://www.kaggle.com/datasets/muonneutrino/us-census-demographic-data/data) 
 
 ## :email: Contact Information
 For any further inquires, direct questions to jfe33@cornell.edu
