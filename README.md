@@ -19,8 +19,8 @@ This project and all visualizations were created with Jupyter Notebook using Pyt
 
 ## :floppy_disk: Usage Instructions
 To follow along with this project, download the below two datasets <br>
-	[dataset-for-1994](jasminee5/summer24/projectonedata/adult.csv) <br>
-	[dataset-for-2017](jasminee5/summer24/projectonedata/acs2017_county_data.csv)<br>
+	[dataset-for-1994](projectonedata/adult.csv) <br>
+	[dataset-for-2017](projectonedata/acs2017_county_data.csv)<br>
  
  
 
