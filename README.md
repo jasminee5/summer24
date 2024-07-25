@@ -19,8 +19,10 @@ This project and all visualizations were created with Jupyter Notebook using Pyt
 
 ## :floppy_disk: Usage Instructions
 To follow along with this project, download the below two datasets <br>
-	[click here to go to dataset xyz] (xyz) <br>
-	[click here to go to dataset abc]  (abc)
+	[dataset-for-1994](jasminee5/summer24/projectonedata/adult.csv) <br>
+	[dataset-for-2017](jasminee5/summer24/projectonedata/acs2017_county_data.csv)<br>
+ 
+ 
 
 Download code in the file named adultcsv then run jupyter notebook to follow along with visualizations
 
@@ -35,7 +37,7 @@ July 22nd: Working on creating visualizations post EDA
 Specify licensing terms under which the project is distributed
 
 ## :scroll: Credits
-All datasets found on Kaggle.com
+All datasets found on [Kaggle.com - 2017 dataset](https://www.kaggle.com/datasets/muonneutrino/us-census-demographic-data/data) & [Kaggle.com - 1994 dataset](https://www.kaggle.com/datasets/uciml/adult-census-income)
 
 ## :email: Contact Information
 For any further inquires, direct questions to jfe33@cornell.edu
