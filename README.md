@@ -15,7 +15,7 @@ Throughout this project, we examine income distribution across the United States
 Basic examples of the procedure or outputs. These can be pictures of visualizations, websites etc
 
 ## :wrench: Tools Used
-This project and all visualizations were created with Jupyter Notebook using Python, along with essential libraries such as Matplotlib, NumPy, and Pandas.
+This project and visualizations were created with Jupyter Notebook using Python, along with essential libraries such as Matplotlib, NumPy, and Pandas. Tableau was also used to create map visualizations.
 
 ## :floppy_disk: Usage Instructions
 To follow along with this project, download the below two datasets <br>
@@ -31,7 +31,7 @@ This section describes the process and strategies utilized in completing the pro
 
 ## :bookmark: Status
 This tells the project’s current status <br>
-July 22nd: Working on creating visualizations post EDA 
+Aug 9: Creating visualizations to determine regions of focus for business strategy 5-10 years down the line.
 
 ## :open_file_folder: License Information
 Specify licensing terms under which the project is distributed
